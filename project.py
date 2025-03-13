@@ -4,6 +4,6 @@ If Data:
     print("le min est :",min(Data))
     print("le max est :",max(Data))
 else:
-    print("dossier vide")
+print("dossier vide")
 
 
